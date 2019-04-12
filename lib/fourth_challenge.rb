@@ -16,5 +16,5 @@ def fourth_challenge
    }
 }
 end
-romeo_status = epic_tragedy[:status]
-juliet_status = epic_tragedy[:status]
+romeo_status = epic_tragedy[:status] = "dead"
+juliet_status = epic_tragedy[:status] = "dead"
