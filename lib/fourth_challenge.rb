@@ -16,3 +16,5 @@ def fourth_challenge
    }
 }
 end
+romeo_status = epic_tragedy[:status]
+juliet_status = epic_tragedy[:status]
